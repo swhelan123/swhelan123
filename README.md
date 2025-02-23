@@ -20,8 +20,8 @@ I'm Shane, a 2nd-year Computer Science student at University College Dublin (UCD
 ## 🛠️ Tools and Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,arduino,azure,github" alt="Tech Icons row 1"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,arduino,azure" alt="Tech Icons row 1"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=latex,mysql,notion,ps,raspberrypi,sublime,vscode" alt="Tech Icons row 2"/>
+  <img src="https://skillicons.dev/icons?i=github,latex,mysql,notion,ps,raspberrypi,sublime,vscode" alt="Tech Icons row 2"/>
 </div>
 
