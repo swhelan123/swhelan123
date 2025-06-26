@@ -1,7 +1,7 @@
 <div id="Header-Badges" align="center">
   <img src="images/banner.jpg" alt="Banner'">
   <h1>👋 Hey there! 👋</h1>
-  <a href="shane-whelan.ie/">
+  <a href="https://shane-whelan.ie/">
     <img src="https://img.shields.io/badge/My_Site-red?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Site badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shane-whelan-364988291/">
