@@ -11,7 +11,7 @@
 
 ---
 
-I'm Shane, a 2nd-year Computer Science student at University College Dublin (UCD), Ireland.
+I'm Shane, a 3nd-year Computer Science student at University College Dublin (UCD), Ireland.
 * 🚗 I'm a Powertrain Engineer on UCD's Formula Student Team, where I code all the fiddly bits responsible for getting readings and controlling the car
 * 🚀 I love working with Arduinos and 3D printing
 * 🎨 In my freetime, I enjoy doomscrolling and going to the gym
