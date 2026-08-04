@@ -1,60 +1,40 @@
-<div id="Header-Badges" align="center">
-  <img src="images/banner.jpg" alt="Banner">
-  <h1>👋 Hey there, I'm Shane!</h1>
-  <a href="https://shane-whelan.ie/">
-    <img src="https://img.shields.io/badge/My_Site-red?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Site"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shane-whelan-364988291/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+```
+$ whoami
 
----
+shane whelan
+────────────────────────────────────────────────
+study    final-year CS with Data Science & AI
+         University College Dublin, Ireland
+role     Powertrain Captain, UCD Formula Student
+         took the powertrain team to Silverstone 2026
+prev     Software Engineering Intern, Twilio
+side     co-founder, SmartCert — AI study platform
+into     data engineering · ML · embedded systems
+```
 
-I'm a 3rd-year **Computer Science with Data Science & AI** student at **University College Dublin**, Ireland.
+[shane-whelan.ie](https://shane-whelan.ie/) · [linkedin](https://www.linkedin.com/in/shane-whelan-364988291/)
 
-- 🏎️ **Powertrain Captain** on UCD Formula Student — leading the powertrain team toward **Silverstone 2026**
-- 💼 Former **Software Engineering Intern at Twilio**
-- 🤖 Co-founder of **SmartCert** — an AI-powered study platform
-- 📊 Passionate about data engineering, machine learning, and embedded systems
-- 🏋️ Gym-goer, occasional doomscroller
+```
+$ ls projects/
+```
 
----
+**[f1-fantasy-predictor](https://github.com/swhelan123/f1-fantasy-predictor)** — automated weekly F1 Fantasy predictions with ML-based lineup optimisation. Retrains on every race weekend.
+`FastF1` `LightGBM` `DuckDB` `GitHub Actions`
 
-## 🛠️ Tools & Skills
+**[smartcert](https://github.com/swhelan123/smartcertie)** — study and cert-exam prep platform built on LLM APIs.
+`Python` `LLM APIs`
 
-**Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,bash" alt="Languages"/>
-</div>
+**[chess-analytics](https://github.com/swhelan123/comp30750-info-vis-assignment-2)** — my own chess history pulled from the Lichess and Chess.com APIs and made legible.
+`Streamlit` `Plotly` `Python`
 
-**Data & ML**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch" alt="Data & ML"/>
-</div>
+**[sp500-vs-irish-housing](https://github.com/swhelan123/comp30770-big-data-project)** — correlation study between the Irish housing market and the S&P 500, at scale.
+`Spark` `Hadoop` `MapReduce` `SQL`
 
-**Tools & Platforms**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,arduino,raspberrypi,azure,mysql,latex,vscode" alt="Tools"/>
-</div>
+```
+$ cat stack.txt
 
----
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏎️ [F1 Fantasy Predictor](https://github.com/swhelan123/f1-fantasy-predictor) | Automated weekly race predictions with ML-based lineup optimisation | FastF1, LightGBM, DuckDB, GitHub Actions |
-| ♟️ [Chess Analytics Dashboard](https://github.com/swhelan123/comp30750-info-vis-assignment-2) | Personal chess data visualised via Lichess & Chess.com APIs | Streamlit, Plotly, Python |
-| 📈 [Big Data S&P 500 Analysis](https://github.com/swhelan123/comp30770-big-data-project) | Irish housing market vs. stock market correlation study | Spark, Hadoop, MapReduce, SQL |
-| 🤖 [SmartCert](https://github.com/swhelan123/smartcertie) | AI-powered study & cert exam prep platform | Python, LLM APIs |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swhelan123&show_icons=true&theme=dark&hide_border=true" alt="Shane's GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swhelan123&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
+daily      Python, C, C++, Java, SQL, bash
+data/ml    scikit-learn, PyTorch, Spark, DuckDB
+embedded   Arduino, Raspberry Pi, CAN
+infra      Docker, GitHub Actions, Azure, MySQL
+```
