@@ -18,6 +18,9 @@ into     data engineering · ML · embedded systems
 $ ls projects/
 ```
 
+**[UCDFS/TEENSY](https://github.com/UCDFS/TEENSY)** — Vehicle Control Unit firmware for the UCD Formula Student car, on a Teensy 4.1. Pedal and brake sensing, BMS and Bamocar inverter comms over CAN, IMU, and a Nextion dash HMI. Team repo — I work on it as Powertrain Captain.
+`C++` `PlatformIO` `Teensy 4.1` `CAN`
+
 **[f1-fantasy-predictor](https://github.com/swhelan123/f1-fantasy-predictor)** — automated weekly F1 Fantasy predictions with ML-based lineup optimisation. Retrains on every race weekend.
 `FastF1` `LightGBM` `DuckDB` `GitHub Actions`
 
