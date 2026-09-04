@@ -1,5 +1,7 @@
 ```
-$ whoami
+Last login: Sat Aug 22 16:52:22 on ttys000
+
+swhelan123@github ~ $ whoami
 
 shane whelan
 ────────────────────────────────────────────────
@@ -10,34 +12,41 @@ role     Powertrain Captain, UCD Formula Student
 prev     Software Engineering Intern, Twilio
 side     co-founder, SmartCert — AI study platform
 into     data engineering · ML · embedded systems
-```
 
-[shane-whelan.ie](https://shane-whelan.ie/) · [linkedin](https://www.linkedin.com/in/shane-whelan-364988291/)
+swhelan123@github ~ $ ls projects/
 
-```
-$ ls projects/
-```
+UCDFS/TEENSY
+Vehicle Control Unit firmware for the UCD Formula Student car,
+running on a Teensy 4.1. Pedal and brake sensing, BMS and
+Bamocar inverter comms over CAN, IMU, and a Nextion dash HMI.
+Team repo — I work on it as Powertrain Captain.
+C++ · PlatformIO · Teensy 4.1 · CAN
 
-**[UCDFS/TEENSY](https://github.com/UCDFS/TEENSY)** — Vehicle Control Unit firmware for the UCD Formula Student car, on a Teensy 4.1. Pedal and brake sensing, BMS and Bamocar inverter comms over CAN, IMU, and a Nextion dash HMI. Team repo — I work on it as Powertrain Captain.
-`C++` `PlatformIO` `Teensy 4.1` `CAN`
+f1-fantasy-predictor
+Automated weekly F1 Fantasy predictions with ML-based lineup
+optimisation. Retrains on every race weekend.
+FastF1 · LightGBM · DuckDB · GitHub Actions
 
-**[f1-fantasy-predictor](https://github.com/swhelan123/f1-fantasy-predictor)** — automated weekly F1 Fantasy predictions with ML-based lineup optimisation. Retrains on every race weekend.
-`FastF1` `LightGBM` `DuckDB` `GitHub Actions`
+smartcert
+Study and cert-exam prep platform built on LLM APIs.
+Python · LLM APIs
 
-**[smartcert](https://github.com/swhelan123/smartcertie)** — study and cert-exam prep platform built on LLM APIs.
-`Python` `LLM APIs`
+chess-analytics
+My own chess history pulled from the Lichess and Chess.com APIs
+and made legible.
+Streamlit · Plotly · Python
 
-**[chess-analytics](https://github.com/swhelan123/comp30750-info-vis-assignment-2)** — my own chess history pulled from the Lichess and Chess.com APIs and made legible.
-`Streamlit` `Plotly` `Python`
+sp500-vs-irish-housing
+Correlation study between the Irish housing market and the
+S&P 500, at scale.
+Spark · Hadoop · MapReduce · SQL
 
-**[sp500-vs-irish-housing](https://github.com/swhelan123/comp30770-big-data-project)** — correlation study between the Irish housing market and the S&P 500, at scale.
-`Spark` `Hadoop` `MapReduce` `SQL`
-
-```
-$ cat stack.txt
+swhelan123@github ~ $ cat stack.txt
 
 daily      Python, C, C++, Java, SQL, bash
 data/ml    scikit-learn, PyTorch, Spark, DuckDB
 embedded   Arduino, Raspberry Pi, CAN
 infra      Docker, GitHub Actions, Azure, MySQL
-```
+
+swhelan123@github ~ $
+```                                                               
